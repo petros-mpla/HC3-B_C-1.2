@@ -1,15 +1,18 @@
 
+
 //      @mpla
 //      copyright 12024
-//      CERN OHL-2
+//      MIT License
 
-//  CERN has developed this licence to promote collaboration among
-//  hardware designers and to provide a legal tool which supports the
-//  freedom to use, study, modify, share and distribute hardware designs
-//  and products based on those designs. Version 2 of the CERN Open
-//  Hardware Licence comes in three variants: CERN-OHL-P (permissive); and
-//  two reciprocal licences: CERN-OHL-W (weakly reciprocal) and this
-//  licence, CERN-OHL-S (strongly reciprocal).
+//   Permission is hereby granted, free of charge,
+//   to any person obtaining a copy of this software 
+//   and associated documentation files (the “Software”),
+//   to deal in the Software without restriction,
+//   including without limitation the rights to use,
+//   copy, modify, merge, publish, distribute, sublicense,
+//   and/or sell copies of the Software, and to permit
+//   persons to whom the Software is furnished to do so,
+//   subject to the following conditions:
 
 
 const float G = 6.67430e-11;             // (m^3 kg^-1 s^-2)
